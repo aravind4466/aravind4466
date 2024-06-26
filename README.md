@@ -14,7 +14,7 @@
 - 👀 Currently looking full-time positions as a Data Analyst, available to start immediately and authorized to work in the United States.
 - 🤝 Open to work as Data Analyst , Python Developer, Front-end Developer,Entry level software Engineer, salesforce Developer.
 - 🔭 I completed my Master's degree in Computer Science from University of Missouri-Kansas City University. 
-- 🌱 I have over 2 years of experience as a Data Analyst, specializing in Python,Pandas,Matplotlib,PowerBI,SQL,and Microsoft tools.
+- 🌱 I have over 2 years of experience as a Data Analyst,specializing in Python,Pandas,Matplotlib,PowerBI,SQL,and Microsoft tools.
 - 📫 Contact me- aravindambati1005@gmail.com
 
   <div align="center"> 
